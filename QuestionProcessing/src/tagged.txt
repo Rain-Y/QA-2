@@ -1,0 +1,85 @@
+马尔代夫:NR:GPE 的:DEG:O 第一:OD:MISC 大:JJ:O 支柱:NN:O 产业:NN:O 是:VC:O 什么:PN:O ？:PU:O 
+澳大利亚:NR:GPE 是:VC:O 南半球:NN:LOC 面积:NN:O 第几:OD:MISC 大:JJ:O 的:DEG:O 国家:NN:O ？:PU:O 
+阿根廷:NR:GPE 国家:NN:O 足球队:NN:O 赢得:VV:O 过:AS:O 多少:CD:O 次:M:O 美洲:NR:LOC 杯:NN:O 冠军:NN:O ？:PU:O 
+平均:JJ:O 人口:NN:O 密度:NN:O 最:AD:O 高:VA:O 的:DEC:O 大洲:NN:O 是:VC:O ？:PU:O 
+中国:NR:MISC 历史:NN:O 上:LC:O 最:AD:O 杰出:VA:O 的:DEC:O 浪漫:JJ:O 主义:NN:O 诗人:NN:O 是:VC:O ？:PU:O 
+甲午战争:NR:MISC 爆发:VV:O 的:DEC:O 标志:NN:O 是:VC:O ？:PU:O 
+《:PU:O 华英:NR:MISC 字典:NN:MISC 》:PU:O 的:DEG:O 作者:NN:O 是:VC:O ？:PU:O 
+《:PU:O 资治通鉴:NN:O 》:PU:O 的:DEG:O 撰写:NN:O 一共:AD:O 耗时:VV:O 多少年:NN:O ？:PU:O 
+世界上:NN:O 首位:NN:O 从:P:O 南:NN:O 坡:NN:O 登上:VV:O 珠穆朗玛峰:NR:LOC 的:DEC:O 女性:NN:O 的:DEG:O 国籍:NN:O 是:VC:O ？:PU:O 
+最后:AD:O 宣布:VV:O 废除:VV:O 奴隶:NN:O 制度:NN:O 的:DEG:O 行政:NN:O 地区:NN:O 是:VC:O ？:PU:O 
+国际:NN:O 海洋法:NN:O 法庭:NN:O 的:DEG:O 总部:NN:O 位于:VV:O 哪个:DT:O 国家:NN:O ？:PU:O 
+《:PU:O 苏德:NR:MISC 互:AD:MISC 不:AD:MISC 侵犯:VV:MISC 条约:NN:MISC 》:PU:O 的:DEG:O 签订:NN:O 地点:NN:O 是:VC:O ？:PU:O 
+莫言:NR:O 获得:VV:O 诺贝尔:NR:MISC 文学:NN:MISC 奖:NN:MISC 的:DEC:O 年份:NN:O 是:VC:O ？:PU:O 
+元谋人:NN:MISC 化石:NN:O 发现:VV:O 于:P:O 中国:NR:GPE 的:DEC:O 哪:DT:O 一:CD:MISC 省份:NN:O ？:PU:O 
+美国:NR:GPE 的:DEG:O 当代:NN:O 人类学:NN:O 通常:AD:O 划分:VV:O 为:VC:O 几:CD:O 大:JJ:O 分支:NN:O ？:PU:O 
+“:PU:O 中华:NR:MISC 民族:NN:MISC ”:PU:O 一:CD:O 词:NN:O 最:AD:O 早:AD:O 由:P:O 谁:PN:O 提出:VV:O ？:PU:O 
+欧洲:NR:LOC 的:DEG:O 第一:OD:MISC 所:M:O 大学:NN:O 是:VC:O ？:PU:O 
+图书馆学:NN:O 最早:AD:O 由:P:O 谁:PN:O 提出:VV:O ？:PU:O 
+约翰纳什:VV:PERSON 的:DEC:O 博士:NN:O 学位:NN:O 是:VC:O 在:P:O 哪:DT:O 所:M:O 大学:NN:O 获得:VV:O 的:SP:O ？:PU:O 
+现存:JJ:O 所有:DT:O 老虎:NN:O 亚种:NN:O 中:LC:O 最:AD:O 小:VA:O 的:DEC:O 亚种:NN:O 是:VC:O ？:PU:O 
+目前:NT:O 的:DEG:O 北:NN:O 回归线:NN:O 位置:NN:O 是:VC:O 由:P:O 哪个:DT:O 组织:NN:O 确定:VV:O 的:SP:O ？:PU:O 
+首先:AD:O 分离出:VV:O 元素:NN:O 氟的:NN:O 化学家:NN:O 是:VC:O ？:PU:O 
+第一:OD:MISC 位:M:O 获得:VV:O 菲尔兹奖:NN:O 的:DEC:O 女性:NN:O 是:VC:O ？:PU:O 
+薛定谔:NR:O 方程:NN:O 的:DEG:O 提出者:NN:O 的:DEG:O 国籍:NN:O 是:VC:O ？:PU:O 
+太阳系:NN:O 中:LC:O 唯一:JJ:O 一:CD:O 颗:M:O 没有:VE:O 磁场:NN:O 的:DEC:O 行星:NN:O 是:VC:O ？:PU:O 
+位于:VV:O 双子座:NR:O 和:CC:O 狮子座:NR:O 之间:LC:O 的:DEG:O 星座:NN:O 是:VC:O ？:PU:O 
+世界:NN:O 最:AD:O 大:VA:O 的:DEC:O 流动性:NN:O 沙漠:NN:O 是:VC:O ？:PU:O 
+人类:NN:O 合成:VV:O 的:DEC:O 第一:OD:MISC 种:M:O 抗菌药:NN:O 是:VC:O ？:PU:O 
+第一:OD:MISC 种:M:O 以:P:O 人工:JJ:O 合成:JJ:O 无机:JJ:O 物质:NN:O 而:MSP:O 得到:VV:O 的:DEC:O 有机:JJ:O 化合物:NN:O 是:VC:O ？:PU:O 
+中国:NR:MISC 历史:NN:O 上:LC:O 规模:NN:O 最:AD:O 大:VA:O 的:DEC:O 一:CD:O 套:M:O 丛书:NN:O 是:VC:O ？:PU:O 
+世界上:NN:O 唯一:JJ:O 拥有:VV:O 三:CD:MISC 个:M:O 首都:NN:O 的:DEC:O 国家:NN:O 是:VC:O ？:PU:O 
+中国:NR:GPE 近代:NT:O 第一:OD:MISC 所:M:O 国立:JJ:O 综合性:JJ:O 大学:NN:O 是:VC:O ？:PU:O 
+马达加斯加:NR:GPE 位于:VV:O 哪个:DT:O 大洲:NN:O ？:PU:O 
+经典:JJ:O 力学:NN:O 的:DEG:O 基础:NN:O 是:VC:O ？:PU:O 
+到:P:O 2012年:NT:MISC 为止:LC:O ，:PU:O 联合国:NR:ORG 共:AD:O 有:VE:O 多少:CD:O 个:M:O 成员国:NN:O ？:PU:O 
+北京:NR:MISC 奥运会:NR:MISC 上:LC:O 点燃:VV:O 主:NN:O 火炬:NN:O 的:DEC:O 人:NN:O 一共:AD:O 获得:VV:O 过:AS:O 多少:CD:O 个:M:O 世界:NN:O 冠军:NN:O ？:PU:O 
+第一:OD:MISC 位:M:O 获得:VV:O 英国:NR:GPE 皇家:NN:O 音乐:NN:O 学院:NN:O 荣誉:NN:O 博士:NN:O 学位:NN:O 的:DEC:O 中国人:NN:MISC 获得:VV:O 的:DEC:O 第二:OD:MISC 个:M:O 荣誉:NN:O 博士:NN:O 学位:NN:O 是:VC:O 由:P:O 哪个:DT:O 学院:NN:O 授予:VV:O 的:SP:O ？:PU:O 
+1945-1950年:NT:MISC 间:LC:O 收藏:VV:O 清明:VA:O 上河:VV:O 图:NN:O 的:DEC:O 博物馆:NN:O 位于:VV:O 哪:DT:O 一:CD:O 座:M:O 城市:NN:O ？:PU:O 
+巩俐:NR:O 获得:VV:O 香港:NR:MISC 电影:NN:O 金像奖:NR:O 最佳:JJ:O 女:JJ:O 主角:NN:O 的:DEG:O 影片:NN:O 导演:NN:O 是:VC:O 谁:PN:O ？:PU:O 
+打进:VV:O 世界杯:NR:O 历史:NN:O 上:LC:O 最:AD:O 伟大:JJ:O 进球:NN:O 的:DEC:O 球员:NN:O 退役:VV:O 于:P:O 哪:DT:MISC 一:CD:MISC 年:M:MISC ？:PU:O 
+西班牙:NR:GPE 第二:OD:MISC 大:JJ:O 城市:NN:O 属于:VV:O 哪:DT:O 一:CD:O 种:M:O 气候:NN:O ？:PU:O 
+现代:JJ:O 工业:NN:O 制备:VV:O 氧化性:NN:O 最:AD:O 强:VA:O 的:DEC:O 单质:NN:O 的:DEC:O 方法:NN:O 是:VC:O ？:PU:O 
+美国:NR:GPE 第一:OD:MISC 颗:M:O 实验性:JJ:O 原子弹:NN:O 在:P:O 哪里:PN:O 试爆:VV:O 成功:VA:O ？:PU:O 
+拥有:VV:O 世界:NN:O 前:DT:O 两:CD:MISC 位:M:O 的:DEG:O 母语:NN:O 使用者:NN:O 的:DEG:O 语言:NN:O 是:VC:O ？:PU:O 
+荷兰:NR:GPE 外交:NN:O 政策:NN:O 的:DEG:O 四:CD:MISC 项:M:MISC 基本:JJ:O 立场:NN:O 是:VC:O ？:PU:O 
+世界上:NN:O 人口:NN:O 密度:NN:O 前:DT:O 两:CD:MISC 位:M:O 的:DEC:O 国家:NN:O 是:VC:O ？:PU:O 
+任天堂:NR:ORG 的:DEG:O 首:OD:O 间:M:O 零售:NN:O 商店:NN:O 位于:VV:O 哪个:DT:O 城市:NN:O ？:PU:O 
+人类:NN:O 最早:AD:O 发现:VV:O 的:DEC:O 抗生素:NN:O 的:DEG:O 发现者:NN:O 在:P:O 哪:DT:O 一:CD:O 年:M:O 获得:VV:O 了:AS:O 诺贝尔:NR:MISC 生理:NN:O 医学奖:NN:O ？:PU:O 
+牛津:NR:ORG 大学:NN:ORG 培养:VV:O 了:AS:O 几:CD:O 位:M:O 获得:VV:O 过:AS:O 菲尔兹奖:NN:O 的:DEG:O 数学家:NN:O ？:PU:O 
+世界:NN:O 四:CD:MISC 大:JJ:O 长河:NN:O 是:VC:O ？:PU:O 
+金庸:NR:O 的:DEG:O 封笔:NN:O 之:DEG:O 作:NN:O 是:VC:O ？:PU:O 
+中国:NR:GPE 四:CD:MISC 大:JJ:MISC 佛教:NN:MISC 名山:NN:O 之:DEG:O 首:OD:O 位:M:O 于:P:O 哪:DT:O 一:CD:O 个:M:O 省份:NN:O ？:PU:O 
+历史:NN:O 上:LC:O 共:AD:O 有:VE:O 多少:CD:O 个:M:O 朝代:NN:O 在:P:O 西安:NR:GPE 建都:NN:O ？:PU:O 
+1916年:NT:MISC 至:CC:MISC 1927年:NT:MISC ，:PU:O 北京:NR:ORG 大学:NN:ORG 的:DEG:O 校长:NN:O 是:VC:O ？:PU:O 
+江南:NR:LOC 三:CD:MISC 大:JJ:O 名湖:NN:O 分别:AD:O 是:VC:O ？:PU:O 
+婉约:VV:O 派:VV:O 的:DEC:O 女性:NN:O 词人:NN:O 代表:NN:O 是:VC:O ？:PU:O 
+中国:NR:GPE 象棋:NN:O 双方:PN:O 各:AD:O 有:VE:O 多少:CD:O 枚:M:O 棋子:NN:O ？:PU:O 
+桌球:NN:O 在:P:O 台湾:NR:GPE 指:VV:O 的:DEC:O 是:VC:O 哪:DT:O 一:CD:O 种:M:O 运动:NN:O ？:PU:O 
+截止到:P:O 2012年:NT:O ，:PU:O 联合国:NR:ORG 共:AD:O 有:VE:O 多少:CD:O 个:M:O 成员国:NN:O ？:PU:O 
+全球:NN:O 领土:NN:O 面积:NN:O 最:AD:O 小:VA:O 的:DEC:O 国家:NN:O 实施:VV:O 什么样:JJ:O 的:DEG:O 政治:NN:O 体制:NN:O ？:PU:O 
+文艺:NN:O 复兴:NN:O 的:DEG:O 发源于:VV:O 意大利:NR:GPE 的:DEG:O 哪个:DT:O 城市:NN:O ？:PU:O 
+西班牙:NR:GPE 国家:NN:O 德比:NR:O 的:DEG:O 两:CD:MISC 支:M:O 球队:NN:O 一共:AD:O 夺得:VV:O 过:AS:O 多少:CD:O 次:M:O 西:NN:O 甲:VV:O 冠军:NN:O ？:PU:O 
+莱昂纳多:NR:PERSON 第一:OD:MISC 次:M:O 获得:VV:O 奥斯卡:NR:O 提名:NN:O 是:VC:O 多少:CD:O 岁:M:O ？:PU:O 
+唯一:JJ:O 获得:VV:O 香港:NR:MISC 电影:NN:O 金像奖:NR:O 最佳:JJ:O 女:JJ:O 配角:NN:O 的:DEG:O 中国:NR:GPE 大陆:NN:GPE 演员:NN:O 是:VC:O ？:PU:O 
+北京市:NR:GPE 的:DEG:O 气候:NN:O 属于:VV:O ？:PU:O 
+开普勒:NR:O 写:VV:O 过:AS:O 的:DEC:O 研究:NN:O 雪花:NN:O 结构:NN:O 的:DEG:O 书:NN:O 书名:NN:O 是:VC:O ？:PU:O 
+光学:NN:O 显微镜:NN:O 最高:JJ:O 能:VV:O 放大:VV:O 多少:CD:O 倍:M:O ？:PU:O 
+引发:VV:O 香蕉:NN:O 细胞:NN:O 程序性:JJ:O 死亡:NN:O 的:DEG:O 疾病:NN:O 是:VC:O ？:PU:O 
+目前:NT:O 市面:NN:O 上:LC:O 流通:VV:O 的:DEC:O 主要:JJ:O 人民币:NN:O 是:VC:O 第几:OD:MISC 套:M:O ？:PU:O 
+中国:NR:GPE 气温:NN:O 最:AD:O 低:VA:O 的:DEC:O 县份:NN:O 是:VC:O ？:PU:O 
+中国:NR:GPE 人口:NN:O 最:AD:O 多:VA:O 的:DEC:O 少数:NN:O 民族:NN:O 是:VC:O ？:PU:O 
+《:PU:O 难忘:VV:MISC 今宵:NN:MISC 》:PU:O 是:VC:O 为:P:O 第几:OD:MISC 届:M:MISC 春晚:NN:MISC 创作:NN:O 的:SP:O ？:PU:O 
+《:PU:O 资治通鉴:NN:ORG 》:PU:O 是:VC:O 一:CD:O 部:M:O 什么:DT:O 体裁:NN:O 的:DEG:O 史学:NN:O 著作:NN:O ？:PU:O 
+世界:NN:O 第二:OD:MISC 高峰:NN:O 的:DEG:O 海拔:NN:O 是:VC:O ？:PU:O 
+单片机:NN:O 的:DEG:O 最大:JJ:O 优点:NN:O 是:VC:O ？:PU:O 
+Python:NN:O 的:DEG:O 官方:NN:O 解释器:NN:O 采用:VV:O 什么:DT:O 语言:NN:O 编写:VV:O ？:PU:O 
+百度:NR:ORG 公司:NN:ORG 的:DEG:O 两:CD:MISC 位:M:O 创始人:NN:O 是:VC:O ？:PU:O 
+江户:NN:O 川:NR:O 柯南:NR:O 的:DEG:O 真实:JJ:O 身份:NN:O 是:VC:O ？:PU:O 
+电视剧:NN:O 《:PU:O 还:AD:MISC 珠:NR:MISC 格格:AD:MISC 》:PU:O 中:LC:O 五:CD:MISC 阿哥:NN:O 的:DEG:O 扮演者:NN:O 是:VC:O ？:PU:O 
+约翰·福布斯:NR:O ·:PU:O 纳什:NR:O 的:DEG:O 国籍:NN:O 是:VC:O ？:PU:O 
+开创:VV:O 了:AS:O 人类:NN:O 历史:NN:O 上:LC:O 通过:P:O 数学:NN:O 算法:NN:O 计算:VV:O 圆周率:NN:O 近似值:NN:O 先河:NN:O 的:DEC:O 数学家:NN:O 是:VC:O ？:PU:O 
+蓝:JJ:O 牙:NN:O 的:DEG:O 技术:NN:O 标准:NN:O 是:VC:O 由:P:O 哪个:DT:O 组织:NN:O 制定:VV:O 的:SP:O ？:PU:O 
+世界上:NN:O 第一:OD:MISC 只:M:O 手表:NN:O 产生:VV:O 于:P:O 哪:DT:O 一:CD:MISC 年:M:MISC ？:PU:O 
+世界时:NR:O 是:VC:O 以:P:O 什么:PN:O 的:DEG:O 自转:NN:O 为:VC:O 基准:NN:O 得到:VV:O 的:DEC:O 时间:NN:O 尺度:NN:O ？:PU:O 
+波长:NN:O 位于:VV:O 微波:NN:O 和:CC:O 可:VV:O 见光:VV:O 之间:LC:O 的:DEG:O 电磁波:NN:O 是:VC:O ？:PU:O 
